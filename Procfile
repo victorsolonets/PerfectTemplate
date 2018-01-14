@@ -1,1 +1,1 @@
-web: TelegramImageBot --port=$PORT
+web: PerfectTemplate --port=$PORT
