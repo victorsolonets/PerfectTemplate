@@ -1,1 +1,1 @@
-web: PerfectTemplate --port=$PORT
+web: PerfectTemplate --workers 3 --bind 0.0.0.0:$PORT
